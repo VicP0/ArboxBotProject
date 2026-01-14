@@ -44,8 +44,6 @@ pip install -r requirements.txt
 playwright install chromium --with-deps
 Environment Variables: Create a .env file for local testing:
 
-קטע קוד
-
 TELEGRAM_TOKEN=your_token_here
 TELEGRAM_CHAT_ID=your_chat_id_here
 STUDIO_URL=your_arbox_studio_url
