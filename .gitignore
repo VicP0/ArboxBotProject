@@ -2,3 +2,6 @@ venv/
 .env
 __pycache__/
 *.bat
+arbox_session.json
+registration_queue.json
+debug_slots.py

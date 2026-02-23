@@ -1,0 +1,14 @@
+# Core browser automation
+playwright
+
+# Telegram bot (v20+ — async/await API)
+python-telegram-bot>=20.0
+
+# Scheduler (v3.x — AsyncIOScheduler compatible with asyncio)
+APScheduler>=3.10,<4.0
+
+# Environment variables
+python-dotenv
+
+# Timezone support
+pytz

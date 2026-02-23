@@ -1,9 +1,6 @@
 name: Daily Panda WOD
 
 on:
-  schedule:
-    # זמן UTC: 04:30 בבוקר (שזה 06:30 שעון ישראל בחורף)
-    - cron: "30 4 * * *"
   workflow_dispatch: # מאפשר לך להריץ את הבוט ידנית דרך האתר של GitHub לבדיקה
 
 jobs:
